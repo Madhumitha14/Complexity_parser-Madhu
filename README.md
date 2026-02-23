@@ -35,4 +35,4 @@ This repository contains research code and experiments focused on understanding 
 ---
 
 ## Notes
-This repository contains research prototypes and exploratory analysis developed during a research internship at IAS.
+This repository contains research prototypes and exploratory analysis developed during research assistant job at University of Stuttgart
